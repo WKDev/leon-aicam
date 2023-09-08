@@ -1,0 +1,321 @@
+2023-09-08 17:05:59,135 [DEBUG] loading model...
+2023-09-08 17:06:24,226 [DEBUG] loading model...
+2023-09-08 17:06:41,922 [DEBUG] loading model...
+2023-09-08 17:06:41,949 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:42,131 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:43,138 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:44,239 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:44,958 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:45,244 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:46,346 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:47,352 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:47,969 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:48,451 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:49,459 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:50,558 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:50,978 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:51,567 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:52,666 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:53,675 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:53,990 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:54,775 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:55,781 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:56,862 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:57,003 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:06:57,876 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:06:58,949 [ERROR] cannot open cam : 0 0
+2023-09-08 17:06:59,951 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:07:03,034 [DEBUG] loading model...
+2023-09-08 17:07:03,061 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:06,065 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:09,070 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:12,077 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:15,082 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:18,085 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:21,092 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:24,101 [ERROR]  bad cam 1 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:27,102 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:07:32,618 [DEBUG] loading model...
+2023-09-08 17:07:32,649 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:08:01,280 [DEBUG] loading model...
+2023-09-08 17:08:01,307 [ERROR]  bad cam 0 input : self.cam_state[t]=0 (480, 640, 3)
+2023-09-08 17:08:54,374 [DEBUG] loading model...
+2023-09-08 17:09:46,835 [DEBUG] loading model...
+2023-09-08 17:10:27,666 [DEBUG] cam opened
+2023-09-08 17:10:27,717 [DEBUG] cam opened
+2023-09-08 17:10:27,797 [DEBUG] cam opened
+2023-09-08 17:10:27,861 [DEBUG] cam opened
+2023-09-08 17:10:27,925 [DEBUG] cam opened
+2023-09-08 17:10:27,989 [DEBUG] cam opened
+2023-09-08 17:10:28,053 [DEBUG] cam opened
+2023-09-08 17:10:28,133 [DEBUG] cam opened
+2023-09-08 17:10:28,197 [DEBUG] cam opened
+2023-09-08 17:10:28,261 [DEBUG] cam opened
+2023-09-08 17:10:28,324 [DEBUG] cam opened
+2023-09-08 17:10:28,389 [DEBUG] cam opened
+2023-09-08 17:10:28,469 [DEBUG] cam opened
+2023-09-08 17:10:28,532 [DEBUG] cam opened
+2023-09-08 17:10:28,596 [DEBUG] cam opened
+2023-09-08 17:10:28,661 [DEBUG] cam opened
+2023-09-08 17:10:28,725 [DEBUG] cam opened
+2023-09-08 17:10:28,805 [DEBUG] cam opened
+2023-09-08 17:10:28,869 [DEBUG] cam opened
+2023-09-08 17:10:28,933 [DEBUG] cam opened
+2023-09-08 17:10:28,997 [DEBUG] cam opened
+2023-09-08 17:10:29,061 [DEBUG] cam opened
+2023-09-08 17:10:29,125 [DEBUG] cam opened
+2023-09-08 17:10:29,205 [DEBUG] cam opened
+2023-09-08 17:10:29,269 [DEBUG] cam opened
+2023-09-08 17:10:29,333 [DEBUG] cam opened
+2023-09-08 17:10:29,397 [DEBUG] cam opened
+2023-09-08 17:10:29,461 [DEBUG] cam opened
+2023-09-08 17:10:29,540 [DEBUG] cam opened
+2023-09-08 17:10:29,605 [DEBUG] cam opened
+2023-09-08 17:10:29,670 [DEBUG] cam opened
+2023-09-08 17:10:29,733 [DEBUG] cam opened
+2023-09-08 17:10:29,797 [DEBUG] cam opened
+2023-09-08 17:10:29,878 [DEBUG] cam opened
+2023-09-08 17:10:29,941 [DEBUG] cam opened
+2023-09-08 17:10:30,005 [DEBUG] cam opened
+2023-09-08 17:10:30,069 [DEBUG] cam opened
+2023-09-08 17:10:30,133 [DEBUG] cam opened
+2023-09-08 17:10:30,213 [DEBUG] cam opened
+2023-09-08 17:10:30,275 [DEBUG] cam opened
+2023-09-08 17:10:30,340 [DEBUG] cam opened
+2023-09-08 17:10:30,405 [DEBUG] cam opened
+2023-09-08 17:10:30,472 [DEBUG] cam opened
+2023-09-08 17:10:30,549 [DEBUG] cam opened
+2023-09-08 17:10:30,613 [DEBUG] cam opened
+2023-09-08 17:10:30,676 [DEBUG] cam opened
+2023-09-08 17:10:30,741 [DEBUG] cam opened
+2023-09-08 17:10:30,807 [DEBUG] cam opened
+2023-09-08 17:10:30,887 [DEBUG] cam opened
+2023-09-08 17:10:30,948 [DEBUG] cam opened
+2023-09-08 17:10:31,012 [DEBUG] cam opened
+2023-09-08 17:10:31,077 [DEBUG] cam opened
+2023-09-08 17:10:31,157 [DEBUG] cam opened
+2023-09-08 17:10:31,223 [DEBUG] cam opened
+2023-09-08 17:10:31,232 [DEBUG] cam opened
+2023-09-08 17:10:31,381 [DEBUG] cam opened
+2023-09-08 17:10:31,389 [DEBUG] cam opened
+2023-09-08 17:10:31,445 [DEBUG] cam opened
+2023-09-08 17:10:31,509 [DEBUG] cam opened
+2023-09-08 17:10:31,589 [DEBUG] cam opened
+2023-09-08 17:10:31,652 [DEBUG] cam opened
+2023-09-08 17:10:31,721 [DEBUG] cam opened
+2023-09-08 17:10:31,781 [DEBUG] cam opened
+2023-09-08 17:10:31,845 [DEBUG] cam opened
+2023-09-08 17:10:31,925 [DEBUG] cam opened
+2023-09-08 17:10:31,989 [DEBUG] cam opened
+2023-09-08 17:10:32,054 [DEBUG] cam opened
+2023-09-08 17:10:32,116 [DEBUG] cam opened
+2023-09-08 17:10:32,178 [DEBUG] cam opened
+2023-09-08 17:10:32,261 [DEBUG] cam opened
+2023-09-08 17:10:32,325 [DEBUG] cam opened
+2023-09-08 17:10:32,389 [DEBUG] cam opened
+2023-09-08 17:10:32,455 [DEBUG] cam opened
+2023-09-08 17:10:32,521 [DEBUG] cam opened
+2023-09-08 17:10:32,580 [DEBUG] cam opened
+2023-09-08 17:10:32,661 [DEBUG] cam opened
+2023-09-08 17:10:32,725 [DEBUG] cam opened
+2023-09-08 17:10:32,789 [DEBUG] cam opened
+2023-09-08 17:10:32,855 [DEBUG] cam opened
+2023-09-08 17:10:32,917 [DEBUG] cam opened
+2023-09-08 17:10:32,997 [DEBUG] cam opened
+2023-09-08 17:10:33,060 [DEBUG] cam opened
+2023-09-08 17:10:33,125 [DEBUG] cam opened
+2023-09-08 17:10:33,189 [DEBUG] cam opened
+2023-09-08 17:10:33,255 [DEBUG] cam opened
+2023-09-08 17:10:33,333 [DEBUG] cam opened
+2023-09-08 17:10:33,397 [DEBUG] cam opened
+2023-09-08 17:10:33,461 [DEBUG] cam opened
+2023-09-08 17:10:33,525 [DEBUG] cam opened
+2023-09-08 17:10:33,589 [DEBUG] cam opened
+2023-09-08 17:10:33,671 [DEBUG] cam opened
+2023-09-08 17:10:33,732 [DEBUG] cam opened
+2023-09-08 17:10:33,797 [DEBUG] cam opened
+2023-09-08 17:10:33,860 [DEBUG] cam opened
+2023-09-08 17:10:33,925 [DEBUG] cam opened
+2023-09-08 17:10:34,005 [DEBUG] cam opened
+2023-09-08 17:10:34,073 [DEBUG] cam opened
+2023-09-08 17:10:34,133 [DEBUG] cam opened
+2023-09-08 17:10:34,197 [DEBUG] cam opened
+2023-09-08 17:10:34,261 [DEBUG] cam opened
+2023-09-08 17:10:34,341 [DEBUG] cam opened
+2023-09-08 17:10:34,405 [DEBUG] cam opened
+2023-09-08 17:10:34,471 [DEBUG] cam opened
+2023-09-08 17:10:34,533 [DEBUG] cam opened
+2023-09-08 17:10:34,597 [DEBUG] cam opened
+2023-09-08 17:10:34,676 [DEBUG] cam opened
+2023-09-08 17:10:34,741 [DEBUG] cam opened
+2023-09-08 17:10:34,807 [DEBUG] cam opened
+2023-09-08 17:10:34,873 [DEBUG] cam opened
+2023-09-08 17:10:34,933 [DEBUG] cam opened
+2023-09-08 17:10:35,013 [DEBUG] cam opened
+2023-09-08 17:10:35,077 [DEBUG] cam opened
+2023-09-08 17:10:35,141 [DEBUG] cam opened
+2023-09-08 17:10:35,205 [DEBUG] cam opened
+2023-09-08 17:10:35,268 [DEBUG] cam opened
+2023-09-08 17:10:35,349 [DEBUG] cam opened
+2023-09-08 17:10:35,413 [DEBUG] cam opened
+2023-09-08 17:10:35,477 [DEBUG] cam opened
+2023-09-08 17:10:35,541 [DEBUG] cam opened
+2023-09-08 17:10:35,604 [DEBUG] cam opened
+2023-09-08 17:10:35,685 [DEBUG] cam opened
+2023-09-08 17:10:35,749 [DEBUG] cam opened
+2023-09-08 17:10:35,813 [DEBUG] cam opened
+2023-09-08 17:10:35,877 [DEBUG] cam opened
+2023-09-08 17:10:35,941 [DEBUG] cam opened
+2023-09-08 17:10:36,021 [DEBUG] cam opened
+2023-09-08 17:10:36,085 [DEBUG] cam opened
+2023-09-08 17:10:36,149 [DEBUG] cam opened
+2023-09-08 17:10:36,213 [DEBUG] cam opened
+2023-09-08 17:10:36,277 [DEBUG] cam opened
+2023-09-08 17:10:36,341 [DEBUG] cam opened
+2023-09-08 17:10:36,421 [DEBUG] cam opened
+2023-09-08 17:10:36,485 [DEBUG] cam opened
+2023-09-08 17:10:36,548 [DEBUG] cam opened
+2023-09-08 17:10:36,612 [DEBUG] cam opened
+2023-09-08 17:10:36,677 [DEBUG] cam opened
+2023-09-08 17:10:36,757 [DEBUG] cam opened
+2023-09-08 17:10:36,821 [DEBUG] cam opened
+2023-09-08 17:10:36,829 [DEBUG] cam opened
+2023-09-08 17:10:36,949 [DEBUG] cam opened
+2023-09-08 17:10:37,010 [DEBUG] cam opened
+2023-09-08 17:10:37,093 [DEBUG] cam opened
+2023-09-08 17:10:37,157 [DEBUG] cam opened
+2023-09-08 17:10:37,165 [DEBUG] cam opened
+2023-09-08 17:10:37,221 [DEBUG] cam opened
+2023-09-08 17:10:37,349 [DEBUG] cam opened
+2023-09-08 17:10:37,427 [DEBUG] cam opened
+2023-09-08 17:10:37,492 [DEBUG] cam opened
+2023-09-08 17:10:37,500 [DEBUG] cam opened
+2023-09-08 17:10:37,557 [DEBUG] cam opened
+2023-09-08 17:10:37,653 [DEBUG] cam opened
+2023-09-08 17:10:37,717 [DEBUG] cam opened
+2023-09-08 17:10:37,780 [DEBUG] cam opened
+2023-09-08 17:10:37,845 [DEBUG] cam opened
+2023-09-08 17:10:37,925 [DEBUG] cam opened
+2023-09-08 17:10:37,989 [DEBUG] cam opened
+2023-09-08 17:10:38,051 [DEBUG] cam opened
+2023-09-08 17:10:38,116 [DEBUG] cam opened
+2023-09-08 17:10:38,181 [DEBUG] cam opened
+2023-09-08 17:10:38,245 [DEBUG] cam opened
+2023-09-08 17:10:38,324 [DEBUG] cam opened
+2023-09-08 17:10:38,389 [DEBUG] cam opened
+2023-09-08 17:10:38,453 [DEBUG] cam opened
+2023-09-08 17:10:38,517 [DEBUG] cam opened
+2023-09-08 17:10:38,580 [DEBUG] cam opened
+2023-09-08 17:10:38,661 [DEBUG] cam opened
+2023-09-08 17:10:38,725 [DEBUG] cam opened
+2023-09-08 17:10:38,788 [DEBUG] cam opened
+2023-09-08 17:10:38,853 [DEBUG] cam opened
+2023-09-08 17:10:38,916 [DEBUG] cam opened
+2023-09-08 17:10:38,997 [DEBUG] cam opened
+2023-09-08 17:10:39,060 [DEBUG] cam opened
+2023-09-08 17:10:39,124 [DEBUG] cam opened
+2023-09-08 17:10:39,189 [DEBUG] cam opened
+2023-09-08 17:10:39,253 [DEBUG] cam opened
+2023-09-08 17:10:39,330 [DEBUG] cam opened
+2023-09-08 17:10:39,397 [DEBUG] cam opened
+2023-09-08 17:10:39,461 [DEBUG] cam opened
+2023-09-08 17:10:39,525 [DEBUG] cam opened
+2023-09-08 17:10:39,589 [DEBUG] cam opened
+2023-09-08 17:10:39,669 [DEBUG] cam opened
+2023-09-08 17:10:39,733 [DEBUG] cam opened
+2023-09-08 17:10:39,797 [DEBUG] cam opened
+2023-09-08 17:10:39,861 [DEBUG] cam opened
+2023-09-08 17:10:39,924 [DEBUG] cam opened
+2023-09-08 17:10:40,004 [DEBUG] cam opened
+2023-09-08 17:10:40,067 [DEBUG] cam opened
+2023-09-08 17:10:40,133 [DEBUG] cam opened
+2023-09-08 17:10:40,197 [DEBUG] cam opened
+2023-09-08 17:10:40,260 [DEBUG] cam opened
+2023-09-08 17:10:40,341 [DEBUG] cam opened
+2023-09-08 17:10:40,405 [DEBUG] cam opened
+2023-09-08 17:10:40,467 [DEBUG] cam opened
+2023-09-08 17:10:40,533 [DEBUG] cam opened
+2023-09-08 17:10:40,597 [DEBUG] cam opened
+2023-09-08 17:10:40,676 [DEBUG] cam opened
+2023-09-08 17:10:40,740 [DEBUG] cam opened
+2023-09-08 17:10:40,805 [DEBUG] cam opened
+2023-09-08 17:10:40,873 [DEBUG] cam opened
+2023-09-08 17:10:40,933 [DEBUG] cam opened
+2023-09-08 17:10:41,013 [DEBUG] cam opened
+2023-09-08 17:10:41,076 [DEBUG] cam opened
+2023-09-08 17:10:41,141 [DEBUG] cam opened
+2023-09-08 17:10:41,205 [DEBUG] cam opened
+2023-09-08 17:10:41,271 [DEBUG] cam opened
+2023-09-08 17:10:41,349 [DEBUG] cam opened
+2023-09-08 17:10:41,413 [DEBUG] cam opened
+2023-09-08 17:10:41,477 [DEBUG] cam opened
+2023-09-08 17:10:41,573 [DEBUG] cam opened
+2023-09-08 17:10:41,639 [DEBUG] cam opened
+2023-09-08 17:10:41,648 [DEBUG] cam opened
+2023-09-08 17:10:41,705 [DEBUG] cam opened
+2023-09-08 17:10:41,765 [DEBUG] cam opened
+2023-09-08 17:10:41,829 [DEBUG] cam opened
+2023-09-08 17:10:41,909 [DEBUG] cam opened
+2023-09-08 17:10:41,973 [DEBUG] cam opened
+2023-09-08 17:10:42,037 [DEBUG] cam opened
+2023-09-08 17:10:42,103 [DEBUG] cam opened
+2023-09-08 17:10:42,164 [DEBUG] cam opened
+2023-09-08 17:10:42,245 [DEBUG] cam opened
+2023-09-08 17:10:42,308 [DEBUG] cam opened
+2023-09-08 17:10:42,373 [DEBUG] cam opened
+2023-09-08 17:10:42,438 [DEBUG] cam opened
+2023-09-08 17:10:42,504 [DEBUG] cam opened
+2023-09-08 17:10:42,580 [DEBUG] cam opened
+2023-09-08 17:10:42,645 [DEBUG] cam opened
+2023-09-08 17:10:42,709 [DEBUG] cam opened
+2023-09-08 17:10:42,773 [DEBUG] cam opened
+2023-09-08 17:10:42,837 [DEBUG] cam opened
+2023-09-08 17:10:42,917 [DEBUG] cam opened
+2023-09-08 17:10:42,981 [DEBUG] cam opened
+2023-09-08 17:10:43,044 [DEBUG] cam opened
+2023-09-08 17:10:43,109 [DEBUG] cam opened
+2023-09-08 17:10:43,175 [DEBUG] cam opened
+2023-09-08 17:10:43,254 [DEBUG] cam opened
+2023-09-08 17:10:43,317 [DEBUG] cam opened
+2023-09-08 17:10:43,380 [DEBUG] cam opened
+2023-09-08 17:10:43,445 [DEBUG] cam opened
+2023-09-08 17:10:43,508 [DEBUG] cam opened
+2023-09-08 17:10:43,588 [DEBUG] cam opened
+2023-09-08 17:10:43,656 [DEBUG] cam opened
+2023-09-08 17:10:43,717 [DEBUG] cam opened
+2023-09-08 17:10:43,781 [DEBUG] cam opened
+2023-09-08 17:10:43,845 [DEBUG] cam opened
+2023-09-08 17:10:43,909 [DEBUG] cam opened
+2023-09-08 17:10:43,989 [DEBUG] cam opened
+2023-09-08 17:10:44,057 [DEBUG] cam opened
+2023-09-08 17:10:44,116 [DEBUG] cam opened
+2023-09-08 17:10:44,180 [DEBUG] cam opened
+2023-09-08 17:10:44,244 [DEBUG] cam opened
+2023-09-08 17:10:44,327 [DEBUG] cam opened
+2023-09-08 17:10:44,389 [DEBUG] cam opened
+2023-09-08 17:10:44,455 [DEBUG] cam opened
+2023-09-08 17:10:44,517 [DEBUG] cam opened
+2023-09-08 17:10:44,581 [DEBUG] cam opened
+2023-09-08 17:10:44,622 [DEBUG] cam opened
+2023-09-08 17:10:44,623 [ERROR] failed to read camera 0/ 0, retrying..
+2023-09-08 17:10:44,624 [WARNING] releasing recapturing cam 0..
+2023-09-08 17:14:38,596 [DEBUG] loading model...
+2023-09-08 17:14:40,570 [DEBUG] cam opened
+2023-09-08 17:14:41,571 [DEBUG] cam opened
+2023-09-08 17:14:42,572 [DEBUG] cam opened
+2023-09-08 17:14:43,573 [DEBUG] cam opened
+2023-09-08 17:14:44,573 [DEBUG] cam opened
+2023-09-08 17:14:45,574 [DEBUG] cam opened
+2023-09-08 17:14:46,574 [DEBUG] cam opened
+2023-09-08 17:14:47,574 [DEBUG] cam opened
+2023-09-08 17:14:48,575 [DEBUG] cam opened
+2023-09-08 17:14:49,576 [DEBUG] cam opened
+2023-09-08 17:14:50,576 [DEBUG] cam opened
+2023-09-08 17:14:51,576 [DEBUG] cam opened
+2023-09-08 17:14:54,825 [DEBUG] loading model...
+2023-09-08 17:14:56,782 [DEBUG] cam opened
+2023-09-08 17:14:57,783 [DEBUG] cam opened
+2023-09-08 17:14:58,783 [DEBUG] cam opened
+2023-09-08 17:14:59,784 [DEBUG] cam opened
+2023-09-08 17:15:00,784 [DEBUG] cam opened
+2023-09-08 17:15:01,785 [DEBUG] cam opened
